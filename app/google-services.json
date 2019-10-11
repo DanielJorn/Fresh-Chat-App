@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "876361801617",
+    "firebase_url": "https://the-best-chat-app-clean.firebaseio.com",
+    "project_id": "the-best-chat-app-clean",
+    "storage_bucket": "the-best-chat-app-clean.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876361801617:android:9a74e872eb5d3367e78430",
+        "android_client_info": {
+          "package_name": "com.danjorn.freshchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876361801617-c74hsnu6re9qn8uciop6sd4l6n55v3p2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.danjorn.freshchatapp",
+            "certificate_hash": "e8808c3c345c9a12a977c0bbed41ca95b425f36f"
+          }
+        },
+        {
+          "client_id": "876361801617-omqo43ggqb1vuhntrctt9jfuusmc2jug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZHzVkVwpMQJZiT9ahbnK2I_-IwzQouWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "876361801617-omqo43ggqb1vuhntrctt9jfuusmc2jug.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
